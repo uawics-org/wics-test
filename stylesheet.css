@@ -1,0 +1,16 @@
+
+
+.swal-overlay {
+  background-color: rgba(239, 118, 243, 0.45);
+}
+
+.swal-text {
+  background-color: rgb(5, 5, 5);
+  padding: 17px;
+  border: 1px solid rgb(159, 165, 165);
+  display: block;
+  margin: 22px;
+  text-align: center;
+  font-family: monospace;
+  color: hsl(0, 0%, 100%);
+}
