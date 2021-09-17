@@ -14,3 +14,6 @@
   font-family: monospace;
   color: hsl(0, 0%, 100%);
 }
+
+.container {
+  background-color: rgb(216, 115, 246);
